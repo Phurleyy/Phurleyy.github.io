@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Awesome Blog Post</title>
+</head>
+<body>
+  <h1>My Awesome Blog Post</h1>
+  <p>Here is some cool stuff I want to share!</p>
+  <img src="/assets/images/photo1.jpg" alt="A great photo" style="max-width: 600px;">
+</body>
+</html>
